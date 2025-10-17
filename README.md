@@ -102,4 +102,5 @@ For the full terms and permissions, please see the [MIT License](https://opensou
 ---
 
 # 😻 Bongo Cat Display – Make Your Desktop Dance!  
+
 **Unleash productivity. Spark joy. Join our growing community and help us build the purrfect desktop companion for everyone in 2025!**
